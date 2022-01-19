@@ -1,0 +1,7 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="GameManager">
+			<method name="Leave"/>
+		</type>
+	</assembly>
+</linker>

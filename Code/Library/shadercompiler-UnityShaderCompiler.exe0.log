@@ -1,0 +1,5 @@
+Base path: 'D:/Programs/Unity/Hub/Editor/2019.3.2f1/2020.1.2f1/Editor/Data', plugins path ''
+Cmd: initializeCompiler
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process
